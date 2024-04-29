@@ -1,0 +1,2 @@
+1. The bug is that the data type of the variables num1 and num2 are strings so when they are added together it becomes a string concatenation.
+2. we can fix this bug by forcing the value of num1 and num2 to be numbers

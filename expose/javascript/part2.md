@@ -1,10 +1,10 @@
 12:
 
-    A. 'Sarah'
-    B. '2022'
-    C. 'Hello!'
-    D. 'Thomas Powell'
-    E. 'CSE 110'
+    A. student.name: 'Sarah'
+    B. student['Grad Year]: '2022'
+    C. student.greeting(): 'Hello!'
+    D. student['Favorite Teacher']: 'Thomas Powell'
+    E. student.courseLoad[0]: 'CSE 110'
 13. 
 
     A. 32 because the '3' is a string and '+' operator is treating it as a concatenation
